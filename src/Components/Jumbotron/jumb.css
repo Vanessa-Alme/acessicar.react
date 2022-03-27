@@ -1,0 +1,63 @@
+.jumbotron-with-background {
+    background-image: url(../../Assets/Img/equipe.jpg);
+    background-blend-mode: multiply;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background2 {
+    background-image: url(../../Assets/Img/foto1.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background3 {
+    background-image: url(../../Assets/Img/covid.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background4 {
+    background-image: url(../../Assets/Img/carroacesso2.jfif);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background5 {
+    background-image: url(../../Assets/Img/carroacesso2.jfif);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background6 {
+    background-image: url(../../Assets/Img/jumbomotorista.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background7 {
+    background-image: url(../../Assets/Img/jumbopassageiro.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron-with-background8 {
+    background-image: url(../../Assets/Img/jumbocontato.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
